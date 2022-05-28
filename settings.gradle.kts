@@ -1,3 +1,3 @@
 
-rootProject.name = "kn-sdl-template"
+rootProject.name = "PingPong"
 
